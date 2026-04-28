@@ -1,4 +1,4 @@
-EGF # EGF download sites
+EGF and Educational Game Format
 
 This repository serves as a directory to list notable EGF download sites:
 
