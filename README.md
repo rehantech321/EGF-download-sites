@@ -1,4 +1,4 @@
-EGF download sites
+# EGF download sites
 
 This repository serves as a directory to list notable EGF download sites:
 
